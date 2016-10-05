@@ -7,6 +7,14 @@ gitやRubyは触ったことがないので，この演習がとても楽しみ�
 * 16.10.05
   * [リポジトリ](https://github.com/handai-trema/hello-trema-yamatchan)
   * [report.md](https://github.com/handai-trema/hello-trema-yamatchan/blob/master/report.md)
+* 16.10.12
+  * cbench
+    * [リポジトリ](https://github.com/handai-trema/cbench-yamatchan)
+    * [report.md](https://github.com/handai-trema/cbench-yamatchan/blob/master/report.md)
+  * learning-switch
+    * [リポジトリ](https://github.com/handai-trema/learning-switch-yamatchan)
+    * [report.md](https://github.com/handai-trema/learning-switch-yamatchan/blob/master/report.md)
+
 
 # 便利なgitコマンド
 ##リモートリポジトリをローカルリポジトリに取り込む (pull)
